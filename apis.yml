@@ -1,0 +1,32 @@
+aid: randomduck
+name: RandomDuck
+description: "Random pictures of ducks"
+url: https://random-d.uk/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Animals"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Animals
+  - Public APIs
+apis:
+  - name: RandomDuck
+    description: "Random pictures of ducks"
+    humanURL: https://random-d.uk/api
+    baseURL: https://random-d.uk/api
+    tags:
+      - Animals
+    properties:
+      - type: Documentation
+        url: https://random-d.uk/api
+common:
+  - type: Website
+    url: https://random-d.uk/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
