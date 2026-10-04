@@ -39,7 +39,6 @@ apis:
   - name: RandomDuck
     description: "Random pictures of ducks"
     humanURL: https://random-d.uk/api
-    baseURL: https://random-d.uk/api
     tags:
       - Animals
     properties:
